@@ -37,18 +37,11 @@ python3 moving_man.py
 ![moving_man](gif/moving_man.gif)
 
 
+```
+python3 joker.py
+```
+
 ![joker](gif/joker.gif )
-
-
-Desktop_ani.mp4  joker.gif       solar_system.gif  sunflower.gif
-family.gif       moving_man.gif  spider.gif        tux.gif
-
-
-
-
-
-
-
 
 
 

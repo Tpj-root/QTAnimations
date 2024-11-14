@@ -3,14 +3,15 @@
 **Desktop funimation**
 
 
+This application was inspired by the Jurassic Park film from my childhood.
+At that time, I wanted to create it myself. 
+Now, I plan to make it.
+
+```
 Telegram --> AnimatedSticker.tgs  to gif
 
 https://github.com/kamaravichow/tgs-viewer.git
-
-
-
-
-
+```
 
 
 
@@ -23,6 +24,12 @@ spider.gif
 
 
 **how to run**
+```
+python3 Jurassic_Park_Hacker_guy.py
+```
+
+![Sunflower Animation](gif/Jurassic_Park_Hacker_guy.gif)
+
 
 ```
 python3 sunflower.py
@@ -53,6 +60,9 @@ python3 joker.py
 
 
 
+**Todo:**
+
+Synchronize audio effects with animation movements to enhance visual
 
 
 

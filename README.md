@@ -48,7 +48,7 @@ python3 joker.py
 
 **how it works**
 
-[Watch the video](https://github.com/yourusername/yourrepo/blob/main/video.mp4)
+[Watch the video](gif/Desktop_ani.mp4)
 
 
 

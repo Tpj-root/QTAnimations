@@ -15,6 +15,59 @@ https://github.com/kamaravichow/tgs-viewer.git
 
 
 
+```
+
+Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications 
+
+https://github.com/probonopd/linuxdeployqt
+```
+
+
+
+**To build using CMake**
+
+```
+cd CPP_code
+
+mkdir build
+
+cd build
+
+cmake ..
+
+make
+
+mv AnimatedGifApp ../
+
+cd ..
+
+./AnimatedGifApp
+```
+
+
+
+**To build using qmake**
+
+```
+cd CPP_code
+
+mkdir build
+
+qmake -o build/Makefile mani.pro
+
+cd build
+
+make
+
+mv AnimatedGifApp ../
+
+cd ..
+
+./AnimatedGifApp
+
+```
+
+
 **try_it_extra**
 
 tux.gif
